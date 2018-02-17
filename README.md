@@ -1,6 +1,6 @@
 # ienwhang.github.io
 
-### Bar Graph
+#### Bar Graph
 https://bl.ocks.org/ienwhang/8230c623ceba64b48b91d479cbc63005
 
 #### Line Graph
