@@ -5,8 +5,7 @@ It's hard to choose a book to read from the many thousands available out there, 
 Ien broke down the data from top 100 most downloaded books on Project Gutenberg to find out if there was an easier way to choose a Classic to read.
 
 First, a look at the number of downloads of each book. Hover over any of the data points for annotation.
-#### Line Graph
-https://bl.ocks.org/ienwhang/02e1daec7467886ab8e9d1cb65da5726
+#### [Line Graph](https://bl.ocks.org/ienwhang/02e1daec7467886ab8e9d1cb65da5726)
 
 It's clear from the line graph that Pride and Prejudice is a clear favourite among readers, with a significantly higher download number than the rest. The second and third ranked book also see a relatively high download number. The bar graph below suggests it's not because the top three are shorter books, with number of sentences in each book varying widely across the board. 
 #### Bar Graph
